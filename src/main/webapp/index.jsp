@@ -1,5 +1,6 @@
 <html>
 <body>
+<h1>Welcome</h1>
 <h2>Login page</h2>
 <%
 String message=request.getParameter("message");
